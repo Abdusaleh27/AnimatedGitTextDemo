@@ -1,2 +1,3 @@
 # AnimatedGitTextDemo
-Used to demonstrate git/GITHUB work flow
+Used to demonstrate git/GITHUB work flow. 
+
